@@ -1,0 +1,9 @@
+requests
+colorama
+warnings
+futures
+masscan
+dnspython
+argparse
+base64
+pyfiglet
